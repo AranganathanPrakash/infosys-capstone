@@ -5,13 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Parent for Spring Boot -->
-   <parent>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.7.10</version>
-    <!-- remove or comment out relativePath -->
-    <relativePath/>
-</parent>
+ 
 
     <groupId>com.app.example</groupId>
     <artifactId>hello-world</artifactId>
